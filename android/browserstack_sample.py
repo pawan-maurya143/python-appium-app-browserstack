@@ -6,8 +6,8 @@ import time
 
 desired_cap = {
     # Set your access credentials
-    "browserstack.user" : "YOUR_USERNAME",
-    "browserstack.key" : "YOUR_ACCESS_KEY",
+    "browserstack.user" : "pawanmaurya_q5RQbF",
+    "browserstack.key" : "tvHzN149vgpyr2s5jZYc",
 
     # Set URL of the application under test
     "app" : "bs://<app-id>",
